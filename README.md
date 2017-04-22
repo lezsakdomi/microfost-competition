@@ -1,2 +1,3 @@
-Csapatnév: *Bobby Tables*
-Téma: *-*
+Csapatnév: _Bobby Tables_
+
+Téma: _-_
